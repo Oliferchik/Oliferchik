@@ -7,5 +7,5 @@
 <code>💡 [Skills](SKILLS.md)</code><br>
 
 
-<code>💬 telegram: [@your-nikname](https://telegram.me/Sergik_Oliferchik)</code>
+<code>💬 telegram: [@Sergik_Oliferchik](https://telegram.me/Sergik_Oliferchik)</code>
 <code>📫 email: [oliferchik.s.n@gmail.com](mailto:oliferchik.s.n@gmail.com)</code>
